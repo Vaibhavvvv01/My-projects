@@ -1,6 +1,6 @@
 # PowerBI & Data Analytics Projects
 
-Welcome to my portfolio of business analytics and data analytics projects. This repository showcases professional-grade PowerBI dashboards and analytical projects built for various business use cases.
+Hi This is Vaibhav Kumar! Welcome to my portfolio of business analytics and data analytics projects. This repository showcases professional-grade PowerBI dashboards and analytical projects built for various business use cases.
 
 ## 📊 Projects Overview
 
@@ -28,20 +28,6 @@ Each project folder contains:
 - Regional and product-wise sales analysis
 - Monthly trends and growth metrics
 
-#### 2. **Financial Dashboard**
-- Revenue vs Target analysis
-- Profit margin tracking
-- Budget vs Actual comparison
-
-#### 3. **Customer Analytics**
-- Customer segmentation
-- Churn analysis
-- Customer lifetime value metrics
-
-#### 4. **Operational Metrics**
-- KPI tracking
-- Performance indicators
-- Efficiency metrics
 
 ---
 
@@ -81,7 +67,7 @@ Each project folder contains:
 ## 💼 Professional Profile
 
 **BBA Student | Business Analyst | Data Analyst**
-- Currently pursuing Bachelor's degree in Business Administration
+- Pursuing Bachelor's degree in Business Administration (Data Analytics)
 - Proficient in PowerBI, Excel, Python, and SQL
 - Focused on building data-driven solutions for business problems
 - Available for projects and internship opportunities
@@ -91,8 +77,8 @@ Each project folder contains:
 ## 📧 Contact & Connect
 
 - **GitHub**: [Vaibhavvvv01](https://github.com/Vaibhavvvv01)
-- **LinkedIn**: [Profile](https://linkedin.com)
-- Email: Contact via GitHub
+- **LinkedIn**: [[Profile](https://linkedin.com)](https://www.linkedin.com/in/vaibhavvv-kumar01/)
+- Email: vabkumar6@gmail.com
 
 ---
 
@@ -103,6 +89,5 @@ These projects are shared for portfolio and learning purposes. Feel free to expl
 ---
 
 **Last Updated**: January 2026
-**Version**: 1.0
 
 Feel free to reach out for any questions or discussions about these projects!
