@@ -1,11 +1,12 @@
-Superstore Sales Analysis Dashboard (Power BI)
-Project Description
+# Superstore Sales Analysis Dashboard (Power BI)
+
+## Project Description
 
 An interactive Power BI dashboard built using the Superstore dataset to analyze sales, profit, quantity, discounts, and customer segments across regions, categories, ship modes, and time periods (2014–2017).
 
 This dashboard helps business users quickly understand performance trends and identify growth and problem areas.
 
-📊 Dashboard Features
+#📊 Dashboard Features
 Key Metrics Tracked:
 
 Total Sales
