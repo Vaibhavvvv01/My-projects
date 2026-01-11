@@ -1,68 +1,137 @@
-# Sales Dashboard
+Superstore Sales Analysis Dashboard (Power BI)
+Project Description
 
-## Project Description
+An interactive Power BI dashboard built using the Superstore dataset to analyze sales, profit, quantity, discounts, and customer segments across regions, categories, ship modes, and time periods (2014–2017).
 
-A comprehensive PowerBI dashboard designed to track and analyze sales performance across regions, products, and time periods.
+This dashboard helps business users quickly understand performance trends and identify growth and problem areas.
 
-## 📊 Dashboard Features
+📊 Dashboard Features
+Key Metrics Tracked:
 
-### Key Metrics Tracked:
-- **Total Sales**: Year-to-date and monthly comparisons
-- **Sales by Region**: Regional performance breakdown
-- **Product Performance**: Top-selling and underperforming products
-- **Sales Trends**: Monthly and quarterly trend analysis
-- **Target vs Actual**: Achievement of sales targets
+Total Sales
 
-### Interactive Elements:
-- Drill-down capability by Region → Territory → Customer
-- Date range filters for custom period analysis
-- Product category and segment filters
-- Sales rep performance filtering
+Total Profit
 
-## 🛠️ Technical Details
+Total Quantity
 
-**Data Source**: Sales database (SQL)
-**Refresh Rate**: Daily
-**Data Model**: Star schema with Facts and Dimensions
-**Key Relationships**:
-- Sales Fact ↔ Date Dimension
-- Sales Fact ↔ Product Dimension
-- Sales Fact ↔ Region Dimension
-- Sales Fact ↔ Customer Dimension
+Total Discount
 
-## 📈 DAX Measures
+Order Count
 
-- Sales YTD
-- Sales vs Target
-- Growth %
-- Average Order Value
-- Customer Count
-- Sales per Customer
+Visual Analysis Includes:
 
-## 💡 Business Insights
+Sales by Category (Technology, Furniture, Office Supplies)
 
-- Real-time sales monitoring
-- Quick identification of underperforming regions
-- Product performance trending
-- Target achievement tracking
-- Sales growth analysis
+Sales by Month (Jan–Dec trend)
 
-## 📁 Files in This Project
+Sales by Segment (Consumer, Corporate, Home Office)
 
-- `SalesDashboard.pbix` - Main PowerBI file
-- `sales_data.csv` - Sample data source
-- `Data Dictionary.xlsx` - Field definitions
+Sales by Ship Mode
 
-## 🎯 Use Cases
+Sales by Quarter
 
-- Sales manager reviews daily performance
-- Executive summary for stakeholder meetings
-- Territory performance benchmarking
-- Sales forecast validation
-- Compensation tracking for sales reps
+Category-wise Profit Contribution
 
----
+Top 10 Products by Sales
 
-**Created**: January 2026
-**Last Updated**: January 2026
-**Status**: Active
+Regional Filter (Central, East, South, West)
+
+Year Filter (2014–2017)
+
+(All visuals are visible across multiple dashboard pages in the report 
+
+Overview
+
+)
+
+🛠️ Technical Details
+
+Tool Used: Power BI Desktop
+Dataset: Superstore Sales Dataset (CSV)
+Time Period: 2014 – 2017
+
+Data Model:
+
+Single fact table with calculated measures
+
+Relationships based on Order Date, Category, Segment, Region, Product
+
+📈 DAX Measures Used
+
+Total Sales
+
+Total Profit
+
+Total Quantity
+
+Total Discount
+
+Order Count
+
+Sales Percentage Contribution
+
+Profit Percentage Contribution
+
+💡 Business Insights
+
+Technology category generates the highest sales.
+
+Consumer segment contributes more than 50% of total sales in some years.
+
+Standard Class is the most used shipping mode.
+
+Sales peak mostly in Q4.
+
+Certain products dominate revenue while many products contribute minimally.
+
+Some categories generate high sales but low profit, indicating margin issues.
+
+📁 Files in This Project
+
+Sales_Analysis.pbix – Power BI dashboard file
+
+sample_-_superstore.xls - Orders – Superstore dataset
+
+Overview.pdf – Dashboard screenshots
+
+🎯 Use Cases
+
+Business performance review
+
+Sales trend analysis
+
+Category and segment comparison
+
+Product performance evaluation
+
+Logistics and shipping strategy analysis
+
+Academic and portfolio demonstration
+
+🚀 Skills Demonstrated
+
+Power BI Visualization
+
+DAX Calculations
+
+Data Cleaning
+
+Business Analysis
+
+Dashboard Design
+
+Storytelling with Data
+
+📌 Future Improvements
+
+Add forecasting using Power BI analytics
+
+Add customer-level profitability analysis
+
+Create KPI alert indicators
+
+Add dynamic tooltips
+
+Created: January 2026
+Last Updated: January 2026
+Status: Completed
